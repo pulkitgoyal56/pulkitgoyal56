@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some home automation stuff.
+- 🔭 I’m currently working on some home automation stuff
 - 🌱 I’m currently learning about cloud architectures
