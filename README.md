@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some home automation stuff
-- 🌱 I’m currently learning about cloud architectures
+- 🔭 I’m currently working on some data analysis
+- 🌱 I’m currently learning about neuroscience, machine learning, and AI
