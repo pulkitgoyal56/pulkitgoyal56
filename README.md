@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some data analysis
-- 🌱 I’m currently learning about neuroscience, machine learning, and AI
+- 🔭 I’m currently working on fMRI data analysis from the Human Connectome Project
+- 🌱 I’m currently learning about neuroscience, machine learning, AI, and cognitive science
