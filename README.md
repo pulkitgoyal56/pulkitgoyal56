@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on fMRI data analysis from the Human Connectome Project
-- 🌱 I’m currently learning about neuroscience, machine learning, AI, and cognitive science
+- 🔭 I’m currently working on fNIRS data analysis to detect attentional load markers in multi-object-tracking task
+- 🌱 I’m currently learning about neuroscience and machine learning
