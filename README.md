@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on fNIRS data analysis to detect attentional load markers in multi-object-tracking task
-- 🌱 I’m currently learning about neuroscience and machine learning
+- 🔭 I’m currently working on documenting my fNIRS data analysis pipeline library
+- 🌱 I’m currently learning about deep learning
+- 📖 I'm currently reading about curiosity based reinforcement learning
