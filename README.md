@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m sorta working on documenting my fNIRS data analysis pipeline library
+<!-- - 🔭 I’m working on documenting my fNIRS data analysis pipeline library -->
 - 📚 I'm wrapping up my essay on "Can self-exploring RL agents model OCD?"
 - 🌱 I’m currently learning about deep learning
 - 📖 I'm currently reading about curiosity-based reinforcement learning
