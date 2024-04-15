@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m working on documenting my fNIRS data analysis pipeline library -->
-- 📚 I'm working on my Master's thesis on *building visual semantic bias in structured free exploration in model-based RL*
-- 📖 I'm currently learning about deep reinforcement learning
+- 📚 I'm working on my Master's thesis on *building visual semantic bias in exploration during free play* in model-based predictive planning.
+- 📖 I'm currently learning about deep reinforcement learning.
