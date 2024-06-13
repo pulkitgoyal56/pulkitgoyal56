@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📖 I'm currently learning about the free energy principle and active inference to model OCD computationally
+- 📍 I'm currently doing a research internship in Cognitive Neurorobotics at OIST, Okinawa, Japan
+
+<!-- DONE -->
 <!-- - 🔭 I’m working on documenting my fNIRS data analysis pipeline library -->
-- 📚 I'm finishing my Master's thesis on *building visual semantic bias in curious exploration during free play*
-- 📖 I'm currently learning about deep reinforcement learning
+<!-- - 📚 I'm finishing my Master's thesis on *building visual semantic bias in curious exploration during free play* -->
+<!-- - 📖 I'm currently learning about deep reinforcement learning -->
