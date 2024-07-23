@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📖 I'm currently learning about the free energy principle and active inference to model OCD computationally
-- 📍 I'm currently doing a research internship in Cognitive Neurorobotics at OIST, Okinawa, Japan
+- 📖 I'm currently working on using the Free Energy Principle and Active Inference to develop a computational model of OCD
+- 📍 I'm currently doing a research internship at the Cognitive Neurorobotics Unit at OIST in Okinawa, Japan
 
 <!-- DONE -->
 <!-- - 🔭 I’m working on documenting my fNIRS data analysis pipeline library -->
