@@ -21,8 +21,8 @@ I'm currently,
 - 🚀 preparing to release my fNIRS data analysis pipeline library — [fnirsPy](https://github.com/pulkitgoyal56/)
 
 I recently,  
-- 🏯 finished a research internship at the Cognitive Neurorobotics Unit at Okinawa Institute of Science and Technology in Japan
-  - 🧠 I was working on using variational bayesian techniques from RL, the Free Energy Principle, and Active Inference to develop a computational model of OCD
+- 🧠 finished a research internship at the Cognitive Neurorobotics Unit at Okinawa Institute of Science and Technology in Japan
+  - I was working on using variational bayesian techniques from RL, the Free Energy Principle, and Active Inference to develop a computational model of OCD
 - 📖 finished my Master's in Neural Information Processing from the University of Tübingen
 
 <!-- DONE -->
