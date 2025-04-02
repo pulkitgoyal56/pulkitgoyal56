@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📖 I'm currently working on using the Free Energy Principle and Active Inference to develop a computational model of OCD
-- 📍 I'm currently doing a research internship at the Cognitive Neurorobotics Unit at OIST in Okinawa, Japan
+I'm currently,
+- 📚 reading about abstraction and learning symbolic representation in reinforcement learning
+- 🖼️ finalizing my project on *Building Visual Semantic Bias in Curious Exploration during Free Play*
+- 🚀 preparing to release my fNIRS data analysis pipeline library — [fnirsPy](https://github.com/pulkitgoyal56/)
+
+I recently,  
+- 🏯 finished a research internship at the Cognitive Neurorobotics Unit at Okinawa Institute of Science and Technology in Japan
+  - 🧠 I was working on using variational bayesian techniques from RL, the Free Energy Principle, and Active Inference to develop a computational model of OCD
+- 📖 finished my Master's in Neural Information Processing from the University of Tübingen
 
 <!-- DONE -->
-<!-- - 🔭 I’m working on documenting my fNIRS data analysis pipeline library -->
-<!-- - 📚 I'm finishing my Master's thesis on *building visual semantic bias in curious exploration during free play* -->
-<!-- - 📖 I'm currently learning about deep reinforcement learning -->
