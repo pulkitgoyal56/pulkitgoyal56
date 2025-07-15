@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm currently,
-- 📚 working on self-supervised action abstractions, skill discovery, and symbolic representation learning for reinforcement learning and robotics
+- 📚 working on self-supervised symbolic skill discovery for robotics
 - 🖼️ finalizing my project on *Building Visual Semantic Bias in Curious Exploration during Free Play*
 - 🚀 preparing to release my fNIRS data analysis pipeline library — [fnirsPy](https://github.com/pulkitgoyal56/)
 
